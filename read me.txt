@@ -1,0 +1,5 @@
+-connection to database done
+-header.php created and linked to every page
+INDEX.PHP
+-form created
+-
